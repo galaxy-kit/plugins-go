@@ -4,8 +4,8 @@ import (
 	"github.com/galaxy-kit/galaxy-go/define"
 )
 
-var Plugin = define.DefinePluginInterface[Registry]().ServicePluginInterface()
+var plugin = define.DefinePluginInterface[Registry]().ServicePluginInterface()
 
-var Get = Plugin.Get
+var Get = plugin.Get
 
-var TryGet = Plugin.TryGet
+var TryGet = plugin.TryGet

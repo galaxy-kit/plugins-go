@@ -2,8 +2,8 @@ package logger
 
 import "github.com/galaxy-kit/galaxy-go/define"
 
-var Plugin = define.DefinePluginInterface[Logger]().ServicePluginInterface()
+var plugin = define.DefinePluginInterface[Logger]().ServicePluginInterface()
 
-var Get = Plugin.Get
+var Get = plugin.Get
 
-var TryGet = Plugin.TryGet
+var TryGet = plugin.TryGet
