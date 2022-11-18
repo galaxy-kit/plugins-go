@@ -6,6 +6,4 @@ import (
 
 var plugin = define.DefinePluginInterface[Registry]().ServicePluginInterface()
 
-var Get = plugin.Get
-
-var TryGet = plugin.TryGet
+var Context = plugin.Context
