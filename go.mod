@@ -3,7 +3,7 @@ module github.com/galaxy-kit/plugins-go
 go 1.18
 
 require (
-	github.com/galaxy-kit/galaxy-go v0.0.0-20221113173947-500df2e189f0
+	github.com/galaxy-kit/galaxy-go v0.0.0-20221118074900-02db7ec6055a
 	github.com/mitchellh/hashstructure v1.1.0
 	go.etcd.io/etcd/api/v3 v3.5.5
 	go.etcd.io/etcd/client/v3 v3.5.5

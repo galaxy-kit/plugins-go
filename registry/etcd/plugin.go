@@ -5,5 +5,8 @@ import (
 	"github.com/galaxy-kit/plugins-go/registry"
 )
 
-// Plugin 定义本插件
-var Plugin = define.DefinePlugin[registry.Registry, WithEtcdOption]().ServicePlugin(newRegistry)
+var plugin = define.DefinePlugin[registry.Registry, WithEtcdOption]().ServicePlugin(newRegistry)
+
+var InstallTo = plugin.InstallTo
+
+var UninstallFrom = plugin.UninstallFrom

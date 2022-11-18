@@ -34,8 +34,8 @@ github.com/envoyproxy/go-control-plane v0.9.9-0.20201210154907-fd9021fe5dad/go.m
 github.com/envoyproxy/go-control-plane v0.9.9-0.20210217033140-668b12f5399d/go.mod h1:cXg6YxExXjJnVBQHBLXeUAgxn2UodCpnH306RInaBQk=
 github.com/envoyproxy/go-control-plane v0.9.10-0.20210907150352-cf90f659a021/go.mod h1:AFq3mo9L8Lqqiid3OhADV3RfLJnjiw63cSpi+fDTRC0=
 github.com/envoyproxy/protoc-gen-validate v0.1.0/go.mod h1:iSmxcyjqTsJpI2R4NaDN7+kN2VEUnK/pcBlmesArF7c=
-github.com/galaxy-kit/galaxy-go v0.0.0-20221113173947-500df2e189f0 h1:WULPAkPGgbq/ygm9PmHEq0xhelBhQKkgGldZozPDy8s=
-github.com/galaxy-kit/galaxy-go v0.0.0-20221113173947-500df2e189f0/go.mod h1:gxwFY/qh9BJQrqz8NFR0dVmzCZzFoJX4g1Zez8o5gGI=
+github.com/galaxy-kit/galaxy-go v0.0.0-20221118074900-02db7ec6055a h1:n2hmIzZNIWMWPqZw+8oQwW6yyF2OVXVtzKoLJ7FRzWw=
+github.com/galaxy-kit/galaxy-go v0.0.0-20221118074900-02db7ec6055a/go.mod h1:gxwFY/qh9BJQrqz8NFR0dVmzCZzFoJX4g1Zez8o5gGI=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/go-kit/kit v0.8.0/go.mod h1:xBxKIO96dXMWWy0MnWVtmwkA9/13aqxPnvrjFYMA2as=
 github.com/go-kit/kit v0.9.0/go.mod h1:xBxKIO96dXMWWy0MnWVtmwkA9/13aqxPnvrjFYMA2as=
